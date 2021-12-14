@@ -3,11 +3,11 @@
 
 <div id="header">
 <div class="logo">
-</di>
+</div>
 <div class="menu">
 </div>
 </div>
-<h2><b>Hallo , That's Me R4MSES</h2> 
+<h2><b>Hallo , That's Me ` R4MSES</h2> 
 <br> 
 <br> 
 <h2><b>visit my pages</h2> 
