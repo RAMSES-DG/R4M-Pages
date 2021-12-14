@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+ <html>
+  <body bgcolor='949494' bgwidth='500' bg heigh='1000'>
 
-You can use the [editor on GitHub](https://github.com/RAMSES-DG/RAMSES-DG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<div id="header">
+<div class="logo">
+</di>
+<div class="menu">
+</div>
+</div>
+<center> 
+<h2><b>Hallo , That's Me R4MSES</h2> 
+</center> 
+<br> 
+<br> 
+<h2><b>visit my pages</h2> 
+<br> 
+<br> 
+<font size='5' color='black'> 
+<p style="font-family:courier;">MY GITHUB PROFILE <a href="https://github.com/RAMSES-DG" target="_blank">Github</a></p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ <br>
 
-### Markdown
+<font size='5' color='black'> 
+<p style="font-family:courier;">MY BLOG HOME PAGE <a href="https://easy-with-ram.blogspot.com/2021/12/meta-install.html?m=1" target="_blank">bloG</a></p>
+ 
+ <br> 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<font size='5' color='black'><p style="font-family:courier;">GITHUB KALI INSTALL <a href="https://github.com/RAMSES-DG/kali-install" target="_blank">Github</a></p>
 
-```markdown
-Syntax highlighted code block
+<br> 
 
-# Header 1
-## Header 2
-### Header 3
+<font size='5' color='black'><p style="font-family:courier;">GITHUB UBUNTU INSTALL <a href="https://github.com/RAMSES-DG/ubuntu-install" target="_blank">Github</a></p>
 
-- Bulleted
-- List
+<br> 
 
-1. Numbered
-2. List
+<font size='5' color='black'><p style="font-family:courier;">GITHUB METASPLOIT INSTALL <a href="https://github.com/RAMSES-DG/metasploit-install" target="_blank">Github</a></p>
 
-**Bold** and _Italic_ and `Code` text
+<br>
 
-[Link](url) and ![Image](src)
-```
+<font size='5' color='black'><p style="font-family:courier;">GITHUB FEDORA INSTALL <a href="https://github.com/RAMSES-DG/fedora-install" target="_blank">Github</a></p>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<audio autoplay="autoplay" hidden="hidden"> <source src="https://fv9-2.failiem.lv/f/z6akwq6ma" type="audio/mp3"> </source></audio>
 
-### Jekyll Themes
+<br>
+<br> 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RAMSES-DG/RAMSES-DG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ <img src='https://d.top4top.io/p_2173ci0od0.png' heigh='100' width='300'>
+ 
+  </body>
+ </html> 
