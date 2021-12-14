@@ -3,7 +3,7 @@
 <div id="header">
 <div class="logo">
 </div>
-<h2><p style="font-family:courier;">MY PAGES</h2> 
+<h2><p style="font-family:courier;">MY PAGES</p></h2> 
 <br> 
 <br> 
 <font size='5' color='black'> 
