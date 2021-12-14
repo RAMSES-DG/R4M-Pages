@@ -1,5 +1,5 @@
  <html>
-  <body bgcolor='949494' bgwidth='500' bg heigh='1000'>
+ <body bgcolor='949494'>
 
 <div id="header">
 <div class="logo">
@@ -7,9 +7,7 @@
 <div class="menu">
 </div>
 </div>
-<center> 
 <h2><b>Hallo , That's Me R4MSES</h2> 
-</center> 
 <br> 
 <br> 
 <h2><b>visit my pages</h2> 
@@ -46,5 +44,5 @@
 
  <img src='https://d.top4top.io/p_2173ci0od0.png' heigh='100' width='300'>
  
-  </body>
- </html> 
+ </body>
+</html> 
