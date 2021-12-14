@@ -3,13 +3,7 @@
 <div id="header">
 <div class="logo">
 </div>
-<div class="menu">
-</div>
-</div>
-<h2><b>Hallo , That's Me ` R4MSES
-<br> 
-<br> 
-<h2><b>visit my pages</h2> 
+<h2><b>MY PAGES</h2> 
 <br> 
 <br> 
 <font size='5' color='black'> 
