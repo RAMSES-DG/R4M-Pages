@@ -4,7 +4,7 @@
 </div>
 <p style="font-family:courier;">MY PAGES</p>
 <br> 
-<img src='https://b.top4top.io/p_21797y2g30.png'> 
+<img src='https://b.top4top.io/p_21797y2g30.png' target="_blank"> 
 <br>
 <br> 
 <font size='5' color='black'> 
