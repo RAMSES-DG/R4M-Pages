@@ -4,15 +4,13 @@
 </div>
 <p style="font-family:courier;">MY PAGES</p>
 <br> 
-<br> 
-<img src='https://l.top4top.io/p_2178wh9d00.gif' heigh='200' width='200'> 
-<br> 
+<img src='https://b.top4top.io/p_21797y2g30.png'> 
+<br>
 <br> 
 <font size='5' color='black'> 
 <p style="font-family:courier;">MY GITHUB PROFILE <a href="https://github.com/RAMSES-DG" target="_blank">Github</a></p>
 
  <br>
-
 <font size='5' color='black'> 
 <p style="font-family:courier;">MY BLOG HOME PAGE <a href="https://easy-with-ram.blogspot.com/2021/12/meta-install.html?m=1" target="_blank">blog</a></p>
  
