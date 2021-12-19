@@ -2,7 +2,7 @@
 <div id="header">
 <div class="logo">
 </div>
-<p style="font-family:courier;">MY PAGES</p>
+<p style="font-family:courier;" target="_blank">MY PAGES</p>
 <br> 
 <img src='https://b.top4top.io/p_21797y2g30.png' target="_blank"> 
 <br>
