@@ -1,11 +1,7 @@
 <html> 
 <body> 
 <center> 
-~ YEAH THAT'S ME ``` RAMSES
-<br> 
-~ LOVE WAR
-<br>      
-~ DON'T WANT IT 
+beetween the light and the darkness , there is the life
 </center> 
 </body> 
 </html> 
